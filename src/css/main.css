@@ -346,6 +346,7 @@
 .btn-con-main .btn-wrapper a {
   width: 100%;
   max-width: 265px;
+  z-index: 1000;
 }
 .btn-con-main .btn-wrapper a .btn-con {
   cursor: pointer;
