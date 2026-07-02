@@ -706,7 +706,7 @@ section[id] {
 
 @font-face {
   font-family: "about-cursive";
-  src: url("../fonts/KalissaRegular_0.otf"), url("../fonts/KalissaRegular_0.ttf");
+  src: url("../fonts/TheArtist.ttf"), url("../fonts/TheArtist.woff"), url("../fonts/TheArtist.woff2");
   font-weight: 700;
   font-style: normal;
 }
